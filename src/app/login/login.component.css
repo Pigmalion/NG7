@@ -1,0 +1,28 @@
+.loginInput{
+  display: block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding: 10px 20px;
+  border: 1px solid #b7b7b7;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  font: normal 16px/normal "Arial Black", Times, serif;
+  color: rgba(0,142,198,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: rgba(252,252,252,1);
+  margin: auto;
+}
+
+.container{
+  position: relative;
+  margin: 20% auto auto;
+
+}
+label{
+  color: #ffffff;
+  font-weight: bold;
+  font-family: "Arial Black";
+  padding-bottom: 3%;
+}
